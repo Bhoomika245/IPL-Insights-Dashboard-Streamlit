@@ -39,6 +39,8 @@ streamlit run app.py
 - Add ball-by-ball analytics
 - Player comparison dashboard
 - Deploy advanced AI-powered insights using LLMs
+## Live Demo
+https://ipl-insights-dashboard-app-4yhot3trvxskzp6mdehtst.streamlit.app/
 ## Author
 **Bhoomika Kumar**
 B.Tech Computer Science Engineering  
