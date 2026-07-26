@@ -21,11 +21,11 @@ An interactive IPL analytics dashboard built with **Python**, **Streamlit**, and
 ## Dashboard Screenshots
 ### Dashboard Home
 ![Dashboard Home](images/Screenshot%202026-07-26%20150427.png)
-### Team Performance
-![Team Performance](images/Screenshot%202026-07-26%20150545.png)
-### Venue Analysis
-![Venue Analysis](images/Screenshot%202026-07-26%20150518.png)
 ### Team Match Records Filter
+![Team Performance](images/Screenshot%202026-07-26%20150545.png)
+### Team Performance
+![Venue Analysis](images/Screenshot%202026-07-26%20150518.png)
+### Venue Analysis
 ![Match Prediction](images/Screenshot%202026-07-26%20150456.png)
 ## Run Locally
 ```bash
